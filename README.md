@@ -2,7 +2,7 @@
 
 https://badge.mediaplus.ma/greenbinary/orekabe
 
-[![orekabe's 42 stats](https://badge.mediaplus.ma/greenbinary/orekabe)](https://github.com/oakoudad/badge42)
+[![orekabe's 42 stats](https://badge.mediaplus.ma/greenbinary/orekabe)](https://profile.intra.42.fr/users/orekabe)
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/orekabe" alt="orekabe's 42 stats" /></a>
 
