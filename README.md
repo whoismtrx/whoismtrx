@@ -5,7 +5,7 @@
 ##### Special thanks to [Omar Akoudad](https://github.com/oakoudad) for this great work, if you are a student at 42 Network, you can generate an awesome [badge](https://github.com/oakoudad/badge42) too.
 
 <a href="https://github.com/MITIRIX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITIIRX&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITIRIX&theme=light" />
 </a>
 <a href="https://github.com/MITIRIX">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MITIRIX&show_icons=true&theme=light&line_height=40" alt="MITIRIX github stats"/>
