@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Othmane Rekabe - aka MITIRIX 👋
 
 [![orekabe's 42 stats](https://badge.mediaplus.ma/franky/orekabe)](https://profile.intra.42.fr/users/orekabe)
 
