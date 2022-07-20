@@ -2,11 +2,11 @@
 ![](https://komarev.com/ghpvc/?username=MITIRIX)
 
 [![orekabe's 42 stats](https://badge.mediaplus.ma/franky/orekabe)](https://profile.intra.42.fr/users/orekabe)
-##### Special thanks to [Omar Akoudad](https://github.com/oakoudad) for this great work, if you are a student at 42 Network, you can generate an awesome [badge](https://github.com/oakoudad/badge42) too.
-
 <a href="https://github.com/MITIRIX">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITIRIX&theme=light" />
 </a>
+##### Special thanks to [Omar Akoudad](https://github.com/oakoudad) for this great work, if you are a student at 42 Network, you can generate an awesome [badge](https://github.com/oakoudad/badge42) too.
+
 <a href="https://github.com/MITIRIX">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MITIRIX&show_icons=true&theme=light&line_height=40" alt="MITIRIX github stats"/>
 </a>
