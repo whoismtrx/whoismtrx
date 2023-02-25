@@ -6,10 +6,10 @@
 ##### Special thanks to [Omar Akoudad](https://github.com/oakoudad) for this great work, if you are a student at 42 Network, you can generate an awesome [badge](https://github.com/oakoudad/badge42) too.
 
 <a href="https://github.com/cu77yflam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITIRIX&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cu77yflam&theme=react" />
 </a>
 <a href="https://github.com/cu77yflam">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MITIRIX&show_icons=true&theme=react&line_height=40" alt="MITIRIX's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=cu77yflam&show_icons=true&theme=react&line_height=40" alt="Cutty Flam's github stats"/>
 </a>
 
 </div>
