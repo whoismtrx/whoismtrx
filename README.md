@@ -5,11 +5,11 @@
 [![orekabe's 42 stats](https://badge.mediaplus.ma/franky/orekabe)](https://profile.intra.42.fr/users/orekabe)
 ##### Special thanks to [Omar Akoudad](https://github.com/oakoudad) for this great work, if you are a student at 42 Network, you can generate an awesome [badge](https://github.com/oakoudad/badge42) too.
 
-<a href="https://github.com/cu77yflam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cu77yflam&theme=react" />
+<a href="https://github.com/whoismtrx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoismtrx&theme=react" />
 </a>
-<a href="https://github.com/cu77yflam">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=cu77yflam&show_icons=true&theme=react&line_height=40" alt="Cutty Flam's github stats"/>
+<a href="https://github.com/whoismtrx">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=whoismtrx&show_icons=true&theme=react&line_height=40" alt="MTRX github stats"/>
 </a>
 
 </div>
