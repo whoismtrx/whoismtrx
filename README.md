@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Othmane Rekabe AKA MITIRIX 👋
+# Hi there, I'm Othmane Rekabe AKA MTRX 👋
 
 [![orekabe's 42 stats](https://badge.mediaplus.ma/franky/orekabe)](https://profile.intra.42.fr/users/orekabe)
 ##### Special thanks to [Omar Akoudad](https://github.com/oakoudad) for this great work, if you are a student at 42 Network, you can generate an awesome [badge](https://github.com/oakoudad/badge42) too.
